@@ -1,0 +1,5 @@
+Some
+filler
+text
+for log4j
+test file
