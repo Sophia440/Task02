@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/jarRepositories.xml
+/.idea/compiler.xml
+/target/classes/META-INF/Task02.kotlin_module
+/target/test-classes/test_input.txt
+/target/test-classes/META-INF/Task02.kotlin_module
